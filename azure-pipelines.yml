@@ -22,7 +22,7 @@ steps:
     goals: 'package'
 - task: AzureWebApp@1
   inputs:
-    azureSubscription: '309824e2-0020-4a2e-90c7-70b1c03a2d84'
+    azureSubscription: $(azureSubscription)
     appType: webAppLinux
     appName: 'nishjava'
     package: '$(System.DefaultWorkingDirectory)/**/*.war'

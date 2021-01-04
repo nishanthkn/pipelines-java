@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/speedtwinforum/webappdeploy/_apis/build/status/nishanthkn.pipelines-java?branchName=master)](https://dev.azure.com/speedtwinforum/webappdeploy/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
